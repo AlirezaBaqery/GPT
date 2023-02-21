@@ -19,7 +19,7 @@ In this project, we want to train a transformer decoder on the tiny shakespeare 
 
 - If you want to run the script on the local machine, first run the following command to install the required libraries.
 ```
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 - If you want to run the script on Google Colb, there is no need to install any library.
